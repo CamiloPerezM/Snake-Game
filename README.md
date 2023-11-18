@@ -23,4 +23,4 @@ Para reiniciar, presiona Enter después de ver la pantalla de Game Over.
 
 ¡Diviértete jugando!
 
-Link de descarga del .exe : 
+Link de descarga del .exe : https://cactus-jker.itch.io/snake-game
