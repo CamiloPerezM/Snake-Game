@@ -21,6 +21,6 @@ Game Over:
 El juego termina si chocas con las paredes o tu propia cola.
 Para reiniciar, presiona Enter después de ver la pantalla de Game Over.
 
-¡Diviértete jugando
+¡Diviértete jugando!
 
-Link de descarga del .exe : https://drive.google.com/file/d/1khYNBp8JmdbaAemE-S5dxr0GveU75_Er/view?usp=sharing
+Link de descarga del .exe : 
