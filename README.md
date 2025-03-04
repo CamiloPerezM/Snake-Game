@@ -22,5 +22,3 @@ El juego termina si chocas con las paredes o tu propia cola.
 Para reiniciar, presiona Enter después de ver la pantalla de Game Over.
 
 ¡Diviértete jugando!
-
-Link de descarga del .exe : https://cactus-jker.itch.io/snake-game
